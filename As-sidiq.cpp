@@ -18,4 +18,13 @@ void_pertambahan(){
       cin>>y;
       cout<<"Hasil Penjumlahan : "<< x + y;
   }
-
+void_pengurangan(){                
+    int x, y;
+    
+    cout<<"OPERASI PENGURANGAN"<<endl<<endl;
+    cout<<"Masukkan Bilangan Pertama : ";
+    cin>>x;
+    cout<<"Masukkan Bilangan kedua : ";
+    cin>>y;
+    cout<<"Hasil Pengurangan = "<<x - y;
+}
