@@ -39,3 +39,13 @@ void_pengurangan(){
         cin >> y;
         cout << "Hasil Perkalian : " << x * y << endl;
     }
+void_pembagian(){                      //method pembagian
+        int x, y;
+   
+        cout<<"OPERASI PEMBAGIAN"<<endl<<endl;
+        cout << "Masukkan Nilai X  : ";
+        cin >> x;
+        cout << "Masukkan Nilai Y  : ";
+        cin >> y;
+        cout << "Hasil Pembagian : " << x / y << endl;
+    }
