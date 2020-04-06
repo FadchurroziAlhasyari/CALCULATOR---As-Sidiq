@@ -28,3 +28,14 @@ void_pengurangan(){
     cin>>y;
     cout<<"Hasil Pengurangan = "<<x - y;
 }
+
+ void perkalian(){                    
+        int x, y;
+   
+        cout<<"OPERASI PERKALIAN"<<endl<<endl;
+        cout << "Masukkan Nilai X  : ";
+        cin >> x;
+        cout << "Masukkan Nilai Y  : ";
+        cin >> y;
+        cout << "Hasil Perkalian : " << x * y << endl;
+    }
